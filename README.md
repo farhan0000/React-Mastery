@@ -1,1 +1,1 @@
-# faizanjafar-React-Mastery
+React-Mastery
